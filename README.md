@@ -15,6 +15,7 @@ O FeedGet é uma aplicação simples, um botão que ao clicar abre uma pequena j
 ### Front-end Web
 
 - [ ] ReactJS
+- [ ] Typescript
 - [ ] TailwindCSS
 - [ ] Phosphor Icons
 - [ ] Figmoji
@@ -25,6 +26,7 @@ O FeedGet é uma aplicação simples, um botão que ao clicar abre uma pequena j
 ### Back-end
 
 - [ ] Node.js
+- [ ] Typescript
 - [ ] Jest
 - [ ] Prisma
 - [ ] CORS
