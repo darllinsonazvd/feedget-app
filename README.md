@@ -32,6 +32,7 @@ O FeedGet é uma aplicação simples, um botão que ao clicar abre uma pequena j
 - [ ] CORS
 - [ ] Express
 - [ ] PostgreSQL
+- [ ] Testes unitários
 
 ### Mobile
 
