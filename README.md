@@ -15,37 +15,37 @@ O FeedGet é uma aplicação simples, um botão que ao clicar abre uma pequena j
 ### Front-end Web
 
 - [x] ReactJS
-- [ ] Typescript
-- [ ] TailwindCSS
-- [ ] Phosphor Icons
-- [ ] Figmoji
-- [ ] Nodemailer
-- [ ] HTML2Canvas
-- [ ] Vite
+- [x] Typescript
+- [x] TailwindCSS
+- [x] Phosphor Icons
+- [x] Figmoji
+- [x] Nodemailer
+- [x] HTML2Canvas
+- [x] Vite
 
 ### Back-end
 
-- [ ] Node.js
-- [ ] Typescript
-- [ ] Jest
-- [ ] Prisma
-- [ ] CORS
-- [ ] Express
-- [ ] PostgreSQL
-- [ ] Testes unitários
+- [x] Node.js
+- [x] Typescript
+- [x] Jest
+- [x] Prisma
+- [x] CORS
+- [x] Express
+- [x] PostgreSQL
+- [x] Testes unitários
 
 ### Mobile
 
-- [ ] React Native
-- [ ] Typescript
-- [ ] Expo
-- [ ] Context API
-- [ ] Phosphor Icons
-- [ ] Figmoji
-- [ ] Axios
-- [ ] Expo Google Fonts
-- [ ] React Navigation Stack
-- [ ] React Native Gesture Handler
+- [x] React Native
+- [x] Typescript
+- [x] Expo
+- [x] Context API
+- [x] Phosphor Icons
+- [x] Figmoji
+- [x] Axios
+- [x] Expo Google Fonts
+- [x] React Navigation Stack
+- [x] React Native Gesture Handler
 
 ## 🔖 Layout
 
