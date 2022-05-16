@@ -10,6 +10,8 @@
 
 O FeedGet é uma aplicação simples, um botão que ao clicar abre uma pequena janela no canto inferior da tela para enviar feedbacks sobre o site. Desenvolvido durante a NLW Return da Rocketseat possuindo versões Web (front e back-end) e mobile.
 
+Você pode visitar a aplicação [clicando aqui](https://feedget-web.vercel.app/)
+
 ## ✨ Tecnologias
 
 ### Front-end Web
@@ -50,10 +52,6 @@ O FeedGet é uma aplicação simples, um botão que ao clicar abre uma pequena j
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
-
-## 💻 Acesso a aplicação
-
-Você pode visitar a aplicação [clicando aqui](https://feedget-web.vercel.app/)
 
 ## 📄 Licença
 
